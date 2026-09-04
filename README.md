@@ -10,7 +10,7 @@ I use data and technology to explore practical business and operational problems
 
 ### Featured Project
 
-#### Construction Project Analytics
+#### [Construction Project Analytics](https://github.com/sinancopuroglu/construction-project-analytics)
 Analyzed cost, schedule, RFI, and change-order performance across 80 simulated construction work packages using Python.
 
 **Highlights**
